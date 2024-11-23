@@ -57,8 +57,8 @@
 | **`Option (⌥) + Flèche bas`**     | Déplacer la ligne vers le bas            |
 | **`Option (⌥) + Shift + Flèche haut`** | Dupliquer la ligne vers le haut       |
 | **`Option (⌥) + Shift + Flèche bas`** | Dupliquer la ligne vers le bas        |
-| **`Cmd (⌘) + /`**                 | Commenter/Décommenter une ligne          |
-| **`Cmd (⌘) + Shift + /`**         | Commenter/Décommenter un bloc            |
+| **`Cmd (⌘) + /` ou `Option (⌥) + Shift + A /` **                 | Commenter/Décommenter une ligne          |
+| **`Cmd (⌘) + Shift + /` ou ou `Option (⌥) + Shift + A /` **         | Commenter/Décommenter un bloc            |
 
 ---
 
